@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_todolist_2017.iml" filepath="$PROJECT_DIR$/java_todolist_2017.iml" />
+      <module fileurl="file://C:\Users\carem\Documents\C#\lll\java_todolist_2017\todolist.iml" filepath="C:\Users\carem\Documents\C#\lll\java_todolist_2017\todolist.iml" />
+    </modules>
+  </component>
+</project>
